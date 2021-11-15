@@ -8,7 +8,7 @@ public class RestAPITest {
 	public void postjira()
 	{
 		System.out.println("postjira");
-	
+		
 	}
 	
 	@Test 
