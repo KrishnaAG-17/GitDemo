@@ -23,5 +23,12 @@ public class SeleniumTest {
 	{
 		System.out.println("MYUI and UX");
 	}
+	
+	@Test
+	public void elementsUI2()
+	{
+		System.out.println("MYUI and UX version 2");
+	}
+	
 }
 
