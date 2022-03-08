@@ -15,13 +15,13 @@ public class SeleniumTest {
 	@Test
 	public void elementsUI()
 	{
-		System.out.println("elementsUI");
+		System.out.println("elements");
 	}
 	
 	@Test
 	public void elementsUI1()
 	{
-		System.out.println("elementsUI");
+		System.out.println("MYUI and UX");
 	}
 }
 
