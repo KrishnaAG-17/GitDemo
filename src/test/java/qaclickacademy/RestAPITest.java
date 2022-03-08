@@ -23,9 +23,15 @@ public class RestAPITest {
 	}
 	
 	@Test 
-	public void deleteTwitter()
+	public void deleteTwitterApp()
 	{
 		System.out.println("deleteTwitter");
+	}
+	
+	@Test 
+	public void installTwitterApp()
+	{
+		System.out.println("Download deleted Twitter");
 	}
 
 }
